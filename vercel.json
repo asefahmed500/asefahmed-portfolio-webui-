@@ -1,0 +1,15 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "pnpm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_PORTFOLIO_NAME": "Asef Ahmed",
+    "NEXT_PUBLIC_PORTFOLIO_TITLE": "Full Stack Developer",
+    "NEXT_PUBLIC_EMAIL": "asefahmedhr@gmail.com",
+    "NEXT_PUBLIC_PHONE": "+8801779795750",
+    "NEXT_PUBLIC_GITHUB": "https://github.com/asefahmed500",
+    "NEXT_PUBLIC_LINKEDIN": "https://linkedin.com/in/asefahmed11"
+  }
+}
